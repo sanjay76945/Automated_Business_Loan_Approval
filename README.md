@@ -1,1 +1,2 @@
-# Automated_Business_Loan_Approval
+# Project Overview
+This project aims to build an Automated Business Loan Approval System using PostgreSQL that leverages historical data to predict the likelihood of loan repayment. The system uses predefined SQL-based criteria to automatically approve or decline loan applications, streamlining the loan processing workflow for financial institutions. By employing PostgreSQL for data storage, querying, and decision-making logic, the project ensures efficient and scalable processing of loan data.
